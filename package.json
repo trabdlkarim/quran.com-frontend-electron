@@ -1,0 +1,23 @@
+{
+  "name": "quran.com-frontend-electron",
+  "version": "1.0.0",
+  "description": "Quran.com Electron Frontend",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trabdlkarim/quran.com-frontend-electron.git"
+  },
+  "author": "TOURE A. KARIM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trabdlkarim/quran.com-frontend-electron/issues"
+  },
+  "homepage": "https://github.com/trabdlkarim/quran.com-frontend-electron#readme",
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
